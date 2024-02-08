@@ -6,3 +6,5 @@
 @@||googletagservices.com^$important
 @@||ad.doubleclick.net^$important
 @@||t.myvisualiq.net^$important
+# n-tv.de
+@@||technical-service.net^$important
