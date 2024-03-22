@@ -8,3 +8,5 @@
 @@||t.myvisualiq.net^$important
 # n-tv.de
 @@||technical-service.net^$important
+# Bring
+@@||api.getbring.com^$important
